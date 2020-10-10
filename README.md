@@ -23,7 +23,7 @@ Hey Day celebrates to unite and meet, greet and gather the Auburn Family and dev
 Link to learn more about the AU HEY_DAY, 2020: http://sga.auburn.edu/hey-day/
 
 
-`HAPPY HEY_DAY`
+`HAPPY HEY_DAY` :)
 
  WAR EAGLE!!!
 
