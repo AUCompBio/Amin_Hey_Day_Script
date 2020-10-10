@@ -25,5 +25,5 @@ Link to learn more about the AU HEY_DAY, 2020: http://sga.auburn.edu/hey-day/
 
 `HAPPY HEY_DAY`
 
- WAR EAGLE
+ WAR EAGLE!!!
 
