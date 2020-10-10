@@ -20,7 +20,7 @@ Then script is telling the user "Hey with their name".
 # History of HEY_DAY
 Hey Day celebrates to unite and meet, greet and gather the Auburn Family and develops a friendly atmosphere to the Auburn alumni as well as Auburn Family. In this day lots of activities usually take place such as handing out Name tags, encouraging AU students, faculty, stuff to gather together and socialize to maintain the tradition of Hey Day. This year the HEY_DAY will be hosted on October 14, 2020. 
 
-Link for the AU HEY_DAY, 2020: http://sga.auburn.edu/hey-day/
+Link to learn more about the AU HEY_DAY, 2020: http://sga.auburn.edu/hey-day/
 
 
 `HAPPY HEY_DAY`
