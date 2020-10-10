@@ -11,6 +11,7 @@ Then scripts that prompt users to enter name
 Then users are going to enter their name
 
 `read Name`
+
 Then script is telling the user "Hey with their name".
 
 `echo "Hey, $Name"`
